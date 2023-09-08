@@ -4,6 +4,9 @@ WebSocket Terminal Module for arozos system
 
 Access your OS terminal from ArozOS Web Desktop Interface
 
+## Deprecated
+This subservice is deprecated and replaced by Zoraxy (my another open source project of a feature rich reverse proxy server) Web SSH feature. Checkout Zoraxy repo [here](https://github.com/tobychui/zoraxy).
+
 ### Installation
 
 Requires
